@@ -1,0 +1,8 @@
+1- Hombro
+2- Pecho
+3- Triceps
+4- Trapecio
+5- Biceps
+6- Abdomen
+7- Espalda
+8- Piernas
